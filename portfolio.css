@@ -310,19 +310,19 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+/* .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 60%;
-}
+} */
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
   width: 90%;
 }
-/* .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 60%;
 }
- */
+
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
